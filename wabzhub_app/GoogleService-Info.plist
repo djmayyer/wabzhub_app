@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>801628503241-fqkehb9vr8l227rdohbt7m130ml8r7fl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.801628503241-fqkehb9vr8l227rdohbt7m130ml8r7fl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzVGpYEgAPWR6zH8oTujjGbi_pTpnNuSA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>801628503241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>wabz.wabzhub-app</string>
+	<key>PROJECT_ID</key>
+	<string>wabz-1c6ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wabz-1c6ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:801628503241:ios:fbaf30afef86fee424e118</string>
+</dict>
+</plist>
